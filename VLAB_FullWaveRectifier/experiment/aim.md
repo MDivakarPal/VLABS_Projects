@@ -1,0 +1,1 @@
+The aim of the experiment is to make the Full Wave Rectifier and compare the input and output waveforms

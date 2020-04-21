@@ -1,0 +1,49 @@
+
+
+{
+
+   "details": [
+       {
+			"Experiment": "Half Wave Rectifier with and without filter",             
+			"Lab": "Electronic devices and circuits",               
+			"Discipline": "Electronics Engineering",			
+			"Technology": "HTML5, CSS, JAVASCRIPT, HTML CANVAS, JQUERY"        
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Er. Dharmendra Kumar Sachan",        
+      "Institute": "Dr. Ambedkar Institute of Technology for Handicapped ",       
+      "InstituteAcronym": "Dr. AITH" 
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Sajal Gupta",           
+      "Institute": "Dr. Ambedkar Institute of Technology for Handicapped",              
+			"InstituteAcronym": ""       
+       },
+
+       {       
+			"Contributer": "Divakar Pal",            
+      "Institute": "Dr. Ambedkar Institute of Technology for Handicapped",              
+			"InstituteAcronym": "Dr. AITH"        
+       },
+
+       {       
+			"Contributer": "Abhishek Verma",            
+      "Institute": "Dr. Ambedkar Institute of Technology for Handicapped",              
+			"InstituteAcronym": "Dr AITH" 
+       },	
+
+       {       
+			"Contributer": "Abhisek Kumar",             
+      "Institute": "Dr. Ambedkar Institute of Technology for Handicapped",            
+			"InstituteAcronym": "Dr. AITH"      
+       }
+   ]
+
+}
+
